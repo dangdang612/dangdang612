@@ -1,11 +1,11 @@
-<head>
-<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
-</head>
 <h1 align="center"> Welcome to my GitHub Channel! 👋 </h1>
 <h3 align="center">A passionate about Data insights from Adelaide, South Australia.</h3>
 <hr>
-<i class="far fa-address-card">
-<h3 align="left">Connect with me at:</h3>
+
+<h3 align='left'> 🎯 Analytical skills and experience: </h3>
+
+
+<h3 align="left"> 📩 Connect with me at:</h3>
 </i>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dangthuytien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dangthuytien/" height="30" width="40" /></a> or 
