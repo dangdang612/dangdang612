@@ -3,7 +3,16 @@
 <hr>
 
 <h3 align='left'> 🎯 Analytical skills and experience: </h3>
+<li> Google Analytics </li>
+<li> Data Mining</li>
+<li> Data Cleaning </li>
+<li> Data Visualisation</li>
 
+<h3 align='left'> 💡 Knowledge: </h3>
+<li> Statistics</li>
+<li> ETL process</li>
+<li> ERD (Entity-Relationship-Diagram)</li>
+<li> Agile, Scrum, Waterfall Methodology </li>
 
 <h3 align="left"> 📩 Connect with me at:</h3>
 </i>
