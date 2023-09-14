@@ -1,4 +1,4 @@
-<h1 align="center">👋, I am Tien ,a Data Analyst from Adelaide, South Australia.</h1>
+<h1 align="center"> Welcome to my Github Channel! 👋 </h1>
 <h3 align="center">A passionate Data insights from Adelaide, South Australia.</h3>
 
 <h3 align="left">Connect with me:</h3>
